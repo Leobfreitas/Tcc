@@ -1,0 +1,8 @@
+V:(Leonardo,1)
+V:(Bruna,2)
+V:(Henrique,3)
+V:(Marcelo,4)
+A:(1,2)5
+A:(1,4)2
+A:(2,3)6
+A:(3,4)9
